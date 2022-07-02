@@ -1,4 +1,5 @@
 ![Logo do Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png) # Curso Python II - desenvolvendo aplicações web
+
 Repositório utilizado para adicionar atividades realizadas no curso de Desenvolver Aplicações Web com Python, realizado em 2022, no Senac Americana.
 
 ---
